@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">examplemvvmepo</string>
+    <string name="empty">user</string>
+    <string name="create_user">Create User</string>
 </resources>
